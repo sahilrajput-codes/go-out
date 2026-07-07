@@ -2,7 +2,7 @@
   "name": "go-out",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sahilrajput2223.github.io/go-out",
+  "homepage": "https://sahilrajput-codes.github.io/go-out",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.17.0",
